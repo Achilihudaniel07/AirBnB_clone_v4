@@ -212,7 +212,7 @@ github repo
 
 ## Authors
 
-** Caleb Nyong
+** ACHILIHU DANIEL UCHENNA
 
 ## License
 
