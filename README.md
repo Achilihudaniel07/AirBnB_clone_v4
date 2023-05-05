@@ -213,6 +213,7 @@ github repo
 ## Authors
 
 ** ACHILIHU DANIEL UCHENNA
+** OLUWAFEMI ALADE
 
 ## License
 
